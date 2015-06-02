@@ -10,7 +10,7 @@ public class Asd {
 		
 		WebDriver driver = new FirefoxDriver();
 		driver.navigate().to("https://www.youtube.com");
-
+		driver.navigate().to("https://www.youtu666be.com");
 	}
 
 }
